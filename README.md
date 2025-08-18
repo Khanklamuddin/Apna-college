@@ -1,7 +1,7 @@
-# Apna-college
+# Kb-wallah
 
 # Teacher
-Apna College
+Veena Pandey
 
 # STUDENT
 Klamuddin Khan
